@@ -1,0 +1,9 @@
+Checkpoint 2: Git & GitHub
+Namn: Berill Varga
+Datum: 2022-11-28  06:04
+
+Uppgift 6:
+ a) View the history of the repository: 		git log
+ b) If there are outstanding commits to do: 	git status eller git status -s (visar i lång eller kort version vilka filer som har modifierats)
+								git diff (visar exakt var/vad skillnaderna är i koden)
+ c) Start a new repository:				git init
